@@ -13,4 +13,5 @@ def current_player(board)
     "O"
   else
     "X"
+  end
 end
